@@ -75,6 +75,8 @@ if (peliculasFiltradas.length > 0){
                 </div>         
             `;
             contenido.innerHTML = htmlNuevo;
+            pelisVistas.push(peliRecomendadaNueva.titulo);
+            localStorage.setItem('pelisVistas', JSON.stringify(pelisVistas));
         }else{
             swal.fire("Disculpa de momento no podemos recomendarte otra peli");
             botonVista.remove();
