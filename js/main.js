@@ -44,7 +44,7 @@ if (peliculasFiltradas.length > 0){
 
     let html = `
         <div class="recomendacion">
-            <img src="img/${peliRecomendada.fotoPeli}" alt="">
+            <img src="${peliRecomendada.fotoPeli}" alt="">
             <div>
                 <h4>${peliRecomendada.titulo}</h4>
                 <p>${peliRecomendada.miniDesc}</p>
