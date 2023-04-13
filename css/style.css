@@ -1,0 +1,399 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Josefin+Sans:ital,wght@1,300&family=Sora:wght@300&display=swap');
+
+:root{
+    --fuente-logo: "Climate Crisis", cursive;
+    --fuente-menu: 'Josefin Sans', sans-serif;
+    --fuente-hero: 'Sora', sans-serif;;
+    --color-primario: #22333B;
+    --color-secundario: #0A0908;
+    --color-terciario: #F2F4F3;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+body{
+    background-color: var(--color-secundario);
+}
+
+.header{
+    background-color: var(--color-primario);
+    box-shadow: 1px 1px 5px 0px var(--color-secundario);
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.logo{
+    display: inline-block;
+    color: var(--color-terciario);
+    font-size: 60px;
+    margin-left: 10px;
+    font-family: var(--fuente-logo);
+}
+
+.nav{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-color: var(--color-primario);
+    overflow: hidden;
+}
+
+ul{
+    list-style: none;
+}
+
+nav ul li a{
+    font-family: var(--fuente-menu);
+}
+
+.menu a{
+    display: block;
+    padding: 30px;
+    color: var(--color-terciario);
+}
+
+.menu a:hover{
+    background-color:gray;
+}
+
+.menuHambur{
+    cursor: pointer;
+    float: right;
+    padding: 40px 20px;
+}
+
+.lineaHambur {
+    background: var(--color-terciario);
+    display: block;
+    height: 2px;
+    position: relative;
+    width: 24px;
+
+} 
+
+.lineaHambur::before,
+.lineaHambur::after{
+    background: var(--color-terciario);
+    content: '';
+    display: block;
+    height: 100%;
+    position: absolute;
+    transition: all .2s ease-out;
+    width: 100%;
+}
+
+.lineaHambur::before{
+    top: 5px;
+}
+
+.lineaHambur::after{
+    top: -5px;
+}
+
+.sideMenu {
+    display: none;
+}
+
+.sideMenu:checked ~ nav{
+    max-height: 100%;
+}
+
+.sideMenu:checked ~ .menuHambur .lineaHambur {
+    background: transparent;
+}
+
+.sideMenu:checked ~ .menuHambur .lineaHambur::before {
+    transform: rotate(-45deg);
+    top:0;
+}
+
+.sideMenu:checked ~ .menuHambur .lineaHambur::after {
+    transform: rotate(45deg);
+    top:0;
+}
+
+.nav{
+    max-height: 0;
+    transition: max-height .5s ease-out;
+}
+
+
+#formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.formularioEstilo label{
+    color: var(--color-terciario);
+    font-family: var(--fuente-menu);
+}
+
+.formularioEstilo input{
+    background-color: var(--color-secundario);
+    color: white;
+    width: 250px;
+    height: 50px;
+    outline: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.formularioEstilo select{
+    width: 70%;
+    height: 25px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    background-color: var(--color-secundario);
+    color: var(--color-terciario);
+}
+
+h1{
+    color: var(--color-terciario);
+    font-family: var(--fuente-menu);
+    font-size: 6vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+#hero{
+    width: 100%;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+#hero img{
+    height: 30vh;
+    width: 200px;
+}
+
+#hero h2{
+    color: var(--color-terciario);
+    font-family: var(--fuente-hero);
+    text-shadow: var(--color-primario);
+    font-size: 4vh;
+}
+
+#botonEnviar{
+    width: 50px;
+    height: 3.5vh;
+    cursor: pointer;
+    transition: 1s;
+    background-color: var(--color-secundario);
+    color: var(--color-terciario);
+    border: 1px solid var(--color-terciario);
+}
+
+#botonEnviar:hover{
+    transform: scale(1.25);
+}
+
+.miniInfo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.infoNosotros{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 15px;
+    border: 3px solid var(--color-primario);
+    width: 80%;
+    height: 150px;
+    box-shadow: 5px 9px 0px 0px rgba(255, 255, 255, 0.75);
+    -webkit-box-shadow: 5px 9px 0px 0px rgba(255, 255, 255, 0.75);
+    -moz-box-shadow: 5px 9px 0px 0px rgba(255, 255, 255, 0.75);
+    transition: 1s; 
+}
+
+
+.infoNosotros h3{
+    color: var(--color-terciario);
+    font-family: var(--fuente-menu);
+    font-size: 2.5vh;
+}
+
+.infoNosotros p{
+    color: var(--color-terciario);
+    font-family: var(--fuente-hero);
+    font-size: 2vh;
+}
+
+.footer {
+    background-color: var(--color-primario);
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    flex-direction: column;
+}
+
+.enlaceFooter a{
+    color: var(--color-terciario);
+    font-size: 30px;
+    font-family: var(--fuente-menu);
+    text-decoration: none;
+}
+.footerParrafo{
+    color: var(--color-terciario);
+    font-size: 10px;
+    font-family: var(--fuente-menu);
+}
+
+.footer img{
+    height: 20px;
+    width: 20px;
+}
+
+.recomiendoPeli{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    overflow: hidden;
+} 
+
+.recomendacion{
+    margin-bottom: 15px;
+    border: 2px solid var(--color-primario);
+    width: 400px;
+}
+
+.recomendacion img{
+    width: 396px;
+    height: 589.36px;
+}
+
+.recomendacion h4{
+    color: var(--color-terciario);
+    font-family: var(--fuente-hero);
+}
+
+.recomendacion p{
+    color: var(--color-terciario);
+    font-family: var(--fuente-menu);
+}
+
+.recomendacion button{
+    width: 80px;
+    height: 3.5vh;
+    cursor: pointer;
+    transition: 1s;
+    background-color: var(--color-primario);
+    color: var(--color-terciario);
+    border: 1px solid var(--color-terciario);
+    margin-left: 155px;
+}
+
+/*-------------------Media---------------------------*/
+@media (max-width: 779px) {
+    .infoNosotros{
+        width: 60%;
+    }
+
+    .infoNosotros h3{
+        font-size: 2vh;
+    }
+
+    .infoNosotros p{
+        font-size: 1.5vh;
+    }
+}
+
+@media (min-width: 768px) {
+    .nav{
+        max-height: none;
+        top: 0;
+        position: relative;
+        float: right;
+        width: fit-content;
+        background-color: transparent;
+    }
+
+    .menu li{
+        float: left;
+    }
+
+    .menu a:hover{
+        background-color: transparent;
+        color: gray;
+    }
+
+    .menuHambur{
+        display: none;
+    }
+
+    .hero{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-direction: row;
+    }
+}
+
+@media (min-width: 545px){
+    .hero img{
+        height: 34vh;
+        width: 250px;
+        margin-top: 10px;
+    }
+}
+
+@media (max-width: 498px){
+    .infoNosotros{
+        width: 60%;
+    }
+
+    .infoNosotros h3{
+        font-size: 1.5vh;
+    }
+
+    .infoNosotros p{
+        font-size: 1.5vh;
+    }
+}
+
+@media (max-width: 425px){
+    .infoNosotros{
+        width: 50%;
+    }
+
+    .infoNosotros h3{
+        font-size: 1.2vh;
+    }
+
+    .infoNosotros p{
+        font-size: 1.1vh;
+    }
+}
+
+@media (max-width: 415px){
+    .recomendacion{
+        width: 325px;
+    }
+    .recomendacion img{
+        width: 320px;
+    }
+    .recomendacion button{
+        margin-left: 120px;
+    }
+}

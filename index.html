@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="./css/style.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MoviesPicker</title>
+</head>
+<body>
+    <header class="header">
+        <a href="index.html" class="logo">MP</a>
+        <input class="sideMenu" type="checkbox" id="sideMenu"/>
+        <label class="menuHambur" for="sideMenu"><span class="lineaHambur"></span></label>
+        <nav class="nav">
+            <ul class="menu">
+                <li><a href="#">Login</a></li>
+                <li><a href="#">Random Picker</a></li>
+                <li><a href="#">About us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>MoviesPicker</h1>
+        <section id="hero">
+            <form id="formulario" class="formularioEstilo">
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" name="nombre" required placeholder="Nombre">
+                <label for="edad">Edad:</label>
+                <input type="number" id="edad" name="edad" required placeholder="Edad">
+                <label for="genero">Género favorito:</label>
+                <select id="genero" name="genero">
+                    <option value="Accion">Accion</option>
+                    <option value="Drama">Drama</option>
+                    <option value="Crimen">Crimen</option>
+                    <option value="Fantasia">Fantasia</option>
+                    <option value="Animacion">Animacion</option>
+                    <option value="Sci-Fi">Sci-Fi</option>
+                    <option value="Thriller">Thriller</option>
+                    <option value="Romance">Romance</option>
+                    <option value="Guerra">Guerra</option>
+                </select>
+                <button type="submit" id="botonEnviar">Enviar</button>
+            </form>
+        </section>
+        <section class="recomiendoPeli">
+            <div class="recomendacion">
+            </div>
+        </section>
+        <section class="miniInfo">
+            <div class="infoNosotros">
+                <h3>¿Que es MoviesPicker?</h3>
+                <p>MoviesPicker es un simulador interactivo mediante el cual te ayudaremos a recomendar una pelicula que esperemos sea de tu agrado.<br></br>Basamos nuestras recomendaciones mediante los datos que proporcionas y basandonos en opiniones de expertos.
+                </p>
+            </div>
+        </section>
+        <section class="footer">
+            <div class="enlaceFooter">
+                <a href="#">About us</a>
+                <a href="#">Contact</a>
+            </div>
+            <div class="footerParrafo">
+                <p>©Moviespicker limited. Made by Ignacio Centenari in Argentina.</p>
+            </div>
+            <div>
+            <img src="./img/gorjeo (1).png" alt="twitter">
+            <img src="./img/facebook.png" alt="facebook">
+            <img src="./img/instagram (1).png" alt="instagram">
+            <img src="./img/youtube (1).png" alt="youtube">
+            <img src="./img/tik-tok.png" alt="tiktok">
+            </div>
+        </section>
+    </main>
+    <script src="./js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+</html> 
