@@ -26,7 +26,6 @@ formulario.addEventListener('submit', (event)=>{
     })
     .catch((err)=>{
         swal.fire("Error");
-        console.log(err)
     })
 })
 
@@ -42,7 +41,6 @@ const peliculasFiltradas = peliculas.filter(p => (p.generoP === genero && p.edad
 if (peliculasFiltradas.length > 0){
     const randomPeli = Math.floor(Math.random() * peliculasFiltradas.length);
     const peliRecomendada = peliculasFiltradas[randomPeli];
-    console.log(peliculasFiltradas)
 
     let html = `
         <div class="recomendacion">

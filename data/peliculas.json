@@ -4,7 +4,7 @@
         "generoP": "Drama",
         "edadMinima": 15,
         "miniDesc": "Una novela corta de Stephen King, y abarca una mirada optimista de la vida relatando la historia del banquero Andy, quien es condenado a cadena perpetua en la Penitenciaría Estatal de Shawshank, a pesar de haberse declarado inocente. Durante las dos décadas siguientes se hace amigo de un compañero de prisión, el contrabandista Red, y participa en una operación de blanqueo de dinero dirigida por el alcaide de la prisión Samuel Norton.",
-        "fotoPeli":"./img/ShawshankRedemption.jpg"
+        "fotoPeli":"../img/ShawshankRedemption.jpg"
     },
     {
         "titulo": "The Godfather",
