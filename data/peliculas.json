@@ -11,342 +11,342 @@
         "generoP": "Drama",
         "edadMinima": 18,
         "miniDesc": "Protagonizada por Marlon Brando y Al Pacino como los líderes de una poderosa familia criminal ficticia de Nueva York, la historia, ambientada desde 1945 a 1955, cuenta las crónicas de la familia Corleone liderada por Vito Corleone (Brando), enfocándose en el personaje de Michael Corleone (Pacino), y su transformación de un reacio joven ajeno a los asuntos familiares a un implacable jefe de la mafia ítalo-estadounidense.",
-        "fotoPeli":"./img/TheGodfather.jpg"
+        "fotoPeli":"../img/TheGodfather.jpg"
     },
     {
         "titulo": "The Dark Knight",
         "generoP": "Accion",
         "edadMinima": 14,
         "miniDesc": "Con la ayuda del teniente de policía James Gordon y el recientemente elegido fiscal del distrito Harvey Dent, Batman eleva la apuesta en su guerra contra el crimen al proponerse desmantelar los grupos mafiosos restantes que plagan las calles. La sociedad es efectiva, hasta que la mafia lo arrastra al combate para evitar que un lunático criminal conocido como Joker desate un reino de caos que sumiría a Gotham City en la desesperación.",
-        "fotoPeli":"./img/TheDarkKnight.jpg"
+        "fotoPeli":"../img/TheDarkKnight.jpg"
     },
     {
         "titulo": "Pulp Fiction",
         "generoP": "Crimen",
         "edadMinima": 18,
         "miniDesc": "La película entrelaza varias historias cuyos protagonistas son miembros del crimen organizado de Los Ángeles. Los diálogos estilizados, la mezcla de humor y violencia y su tono irónico distinguen a la película.",
-        "fotoPeli":"./img/Pulp-fiction.png"
+        "fotoPeli":"../img/Pulp-fiction.png"
     },
     {
         "titulo": "Forrest Gump",
         "generoP": "Drama",
         "edadMinima": 12,
         "miniDesc": "La historia describe varias décadas de la vida de Forrest Gump, un nativo de Alabama que sufre una leve discapacidad mental. Eso no le impide ser testigo privilegiado, y en algunos casos actor decisivo, de muchos de los momentos más transcendentales de la historia de los Estados Unidos en la segunda mitad del siglo xx, específicamente entre 1945 y 1982.",
-        "fotoPeli":"./img/ForrestGump.jpg"
+        "fotoPeli":"../img/ForrestGump.jpg"
     },
     {
         "titulo": "The Silence of the Lambs",
         "generoP": "Crimen",
         "edadMinima": 18,
         "miniDesc": "La cinta cuenta la historia de Clarice Starling, una joven detective en formación del FBI quien busca la ayuda del doctor Lecter con el objetivo de capturar a otro asesino en serie conocido como 'Buffalo Bill'.",
-        "fotoPeli":"./img/TheSilenceOfTheLambs.jpg"
+        "fotoPeli":"../img/TheSilenceOfTheLambs.jpg"
     },
     {
         "titulo": "The Matrix",
         "generoP": "Accion",
         "edadMinima": 14,
         "miniDesc": "Representa un futuro distópico en el que la humanidad está atrapada sin saberlo dentro de una realidad simulada llamada Matrix, que las máquinas inteligentes han creado para distraer a los humanos mientras usan sus cuerpos como fuente de energía en campos de cultivo.",
-        "fotoPeli":"./img/Matrix.jpg"
+        "fotoPeli":"../img/Matrix.jpg"
     },
     {
         "titulo": "The Lord of the Rings: The Fellowship of the Ring",
         "generoP": "Fantasia",
         "edadMinima": 12,
         "miniDesc": "Ambientada en la Tierra Media, cuenta la historia del Señor Oscuro Sauron, que está buscando el Anillo Único, el cual ha acabado en poder del hobbit Frodo Bolsón. El destino de la Tierra Media está en juego mientras Frodo y ocho compañeros que forman la Compañía del Anillo comienzan un largo y peligroso viaje hacia el Monte del Destino en la tierra de Mordor, que es el único lugar en el que el anillo puede ser destruido.",
-        "fotoPeli":"./img/LordOfTheRingsTheFellowshipRing.jpg"
+        "fotoPeli":"../img/LordOfTheRingsTheFellowshipRing.jpg"
     },
     {
         "titulo": "Schindler's List",
         "generoP": "Drama",
         "edadMinima": 16,
         "miniDesc": "El filme relata un período de la vida de Oskar Schindler, un empresario de etnia alemana que salvó de morir en el Holocausto a más de mil judíos polacos durante la Segunda Guerra Mundial empleándolos como trabajadores de sus fábricas.",
-        "fotoPeli":"./img/SchindlersList.jpg"
+        "fotoPeli":"../img/SchindlersList.jpg"
     },
     {
         "titulo": "Inception",
         "generoP": "Sci-Fi",
         "edadMinima": 16 ,
         "miniDesc": "Es una película de ciencia ficción que relata la historia de un grupo de ladrones que utilizan una máquina que invade los sueños para conquistar sus objetivos más audaces.",
-        "fotoPeli":"./img/Inception.jpg"
+        "fotoPeli":"../img/Inception.jpg"
     },
     {
         "titulo": "Another Round",
         "generoP": "Drama",
         "edadMinima": 16,
         "miniDesc": "Another Round se centra en Martin, un profesor de preparatoria que está pasando por un momento difícil. Emocionalmente alejado de su esposa, sin motivación para preparar o dar clases, y sin una conexión con sus hijos, Martin parece estar muerto en vida.",
-        "fotoPeli":"./img/AnotherRound.jpg"
+        "fotoPeli":"../img/AnotherRound.jpg"
     },
     {
         "titulo": "All Quiet on the Western Front",
         "generoP": "Guerra",
         "edadMinima": 16,
         "miniDesc": "La película aborda la historia de Paul Bäumer, un joven estudiante alemán de diecisiete años, que se alista junto con un grupo de amigos y sin el apoyo familiar para hacerlo para combatir en la Primera Guerra Mundial.",
-        "fotoPeli":"./img/AllQuietOnTheWesternFront.jpg"
+        "fotoPeli":"../img/AllQuietOnTheWesternFront.jpg"
     },
     {
         "titulo": "Everything everywhere all at once",
         "generoP": "Sci-Fi",
         "edadMinima": 16,
         "miniDesc": "Es una película estadounidense de comedia dramática absurda de acción y ciencia ficción de 2022, la cual cuenta con todo tipo de momentos y situaciones que te mantienen pendiente",
-        "fotoPeli":"./img/EverythingEverywhereAllAtOnce.jpg"
+        "fotoPeli":"../img/EverythingEverywhereAllAtOnce.jpg"
     },
     {
         "titulo": "Prisoners",
         "generoP": "Drama",
         "edadMinima": 16,
         "miniDesc": "El Día de Acción de Gracias, Keller Dover, su esposa Grace y sus hijos van a cenar a la casa de sus amigos, Franklin y Nancy Birch. Esa tarde, las hijas menores de ambas familias 'Anna y Joy' van sin permiso a la casa de los Dover, para buscar un silbato. Sin embargo, las niñas no regresan a la casa de los Birch, lo que asusta a sus padres.",
-        "fotoPeli":"./img/Prisoners.jpg"
+        "fotoPeli":"../img/Prisoners.jpg"
     },
     {
         "titulo": "Inglourious Basterds",
         "generoP": "Thriller",
         "edadMinima": 16,
         "miniDesc": "Dos historias convergen. Una sigue a un grupo de soldados, cuya misión es matar nazis con la participación de una miembro de la resistencia alemana. La otra historia sigue a una joven judía que busca venganza por la muerte de su familia en manos de los nazis, y en cuyo cine va a reunirse la cúpula nazi en el estreno de una película.",
-        "fotoPeli":"./img/IngloriusBasterds.jpg"
+        "fotoPeli":"../img/IngloriusBasterds.jpg"
     },
     {
         "titulo": "Akira",
         "generoP": "Sci-Fi",
         "edadMinima":14,
         "miniDesc": "En la metrópoli de Neo-Tokyo, una urbe situada sobre las ruinas de la vieja ciudad de Tokio, destruida hace años por una explosión a nivel mundial, vive Tetsuo. Después de haber sufrido una infancia difícil, es sometido como sujeto de pruebas a una maquina destinada a desarrollar las capacidades psíquicas que se encuentran dentro de cada uno de nosotros. El experimento es un éxito, y Tetsuo sale de allí convertido en una persona totalmente distinta a la que era.",
-        "fotoPeli":"./img/Akira.jpg"
+        "fotoPeli":"../img/Akira.jpg"
     },
     {
         "titulo": "Princess Mononoke",
         "generoP": "Fantasia",
         "edadMinima": 12,
         "miniDesc": "Ambientada en un Japón del período Muromachi, se centra en la lucha entre los guardianes sobrenaturales de un bosque y los humanos que profanan sus recursos, visto por el forastero Ashitaka.",
-        "fotoPeli":"./img/PrincessMononoke.jpg"
+        "fotoPeli":"../img/PrincessMononoke.jpg"
     },
     {
         "titulo": "Requiem for a Dream",
         "generoP": "Drama",
         "edadMinima": 18,
         "miniDesc": "Una viuda se vuelve adicta a píldoras dietéticas mientras su hijo libra su propia batalla con estupefacientes.",
-        "fotoPeli":"./img/RequiemForADream.jpg"
+        "fotoPeli":"../img/RequiemForADream.jpg"
     },
     {
         "titulo": "Pixote",
         "generoP": "Drama",
         "edadMinima": 16,
         "miniDesc": "Se trata de un relato en forma de documental sobre la juventud delincuente de Brasil y cómo es utilizada por la policía corrupta y otras organizaciones criminales para cometer delitos. Tras una redada policial de niños de la calle.",
-        "fotoPeli":"./img/Pixote.jpg"
+        "fotoPeli":"../img/Pixote.jpg"
     },
     {
         "titulo": "The Iron Giant",
         "generoP": "Animacion",
         "edadMinima": 6,
         "miniDesc": "Durante la Guerra Fría, poco después de que la Unión Soviética lance el Sputnik 1 en octubre de 1957, un objeto desconocido proveniente del espacio se estrella en el océano cerca de la costa de Maine, y luego ingresa al bosque cerca de la ciudad de Rockwell. Hogarth Hughes, de nueve años, investiga en el área luego de atestiguar disturbios eléctricos.",
-        "fotoPeli":"./img/TheIronGiant.jpg"
+        "fotoPeli":"../img/TheIronGiant.jpg"
     },
     {
         "titulo": "(500) Days of Summer",
         "generoP": "Romance",
         "edadMinima": 14,
         "miniDesc": "Un joven redactor de tarjetas de felicitación busca desesperadamente a la chica de sus sueños y su nueva compañera de trabajo, Summer Finn, parece ser esa persona. Sin embargo, la senda de la felicidad puede ser imprevisible e incontrolable.",
-        "fotoPeli":"./img/500DaysOfSummer.jpg"
+        "fotoPeli":"../img/500DaysOfSummer.jpg"
     },
     {
         "titulo": "A Star is Born",
         "generoP": "Drama",
         "edadMinima": 15,
         "miniDesc": "Jackson, una estrella de la música country con problemas de alcoholismo, descubre el talento de Ally, una joven cantante de la cual se enamora. Mientras la carrera de ella despega, Jackson percibe que sus días de gloria están llegando a su fin.",
-        "fotoPeli":"./img/AStarIsBorn.jpg"
+        "fotoPeli":"../img/AStarIsBorn.jpg"
     },
     {
         "titulo": "John Wick 1",
         "generoP": "Accion",
         "edadMinima": 18,
         "miniDesc": "La historia se centra en John Wick, buscando a los hombres que irrumpieron en su casa, los cuales proceden a saquear y lastimar sus pertenencias, incluso con el que fue un último regalo para él de su esposa recientemente fallecida.",
-        "fotoPeli":"./img/JohnWick.jpg"
+        "fotoPeli":"../img/JohnWick.jpg"
     },
     {
         "titulo": "Die Hard",
         "generoP": "Accion",
         "edadMinima": 18,
         "miniDesc": "Un grupo terrorista se apodera de un edificio de Los Ángeles y toma a un grupo de personas como rehenes. El policía de Nueva York John McClane consigue escapar del acoso terrorista. Aunque está solo y fuera de servicio, McClane decide enfrentarse a los secuestradores y se convierte en la única esperanza para los rehenes.",
-        "fotoPeli":"./img/DieHard1.jpg"
+        "fotoPeli":"../img/DieHard1.jpg"
     },
     {
         "titulo": "The Departed",
         "generoP": "Crimen",
         "edadMinima": 18,
         "miniDesc": "Billy es un policía encubierto que se infiltra en la mafia dirigida por el jefe criminal Costello. Mientras Billy se está ganando la confianza de Costello, Colin, un joven y duro criminal que se ha infiltrado en el departamento de policía.",
-        "fotoPeli":"./img/TheDeparted.jpg"
+        "fotoPeli":"../img/TheDeparted.jpg"
     },
     {
         "titulo": "Goodfellas",
         "generoP": "Crimen",
         "edadMinima": 18,
         "miniDesc": "Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra en la familia Pauline.",
-        "fotoPeli":"./img/GoodFellas.jpg"
+        "fotoPeli":"../img/GoodFellas.jpg"
     },
     {
         "titulo": "The Sixth Sense",
         "generoP": "Thriller",
         "edadMinima": 13,
         "miniDesc": "Malcolm Crowe es un psicólogo infantil que vive obsesionado por el recuerdo de un joven al que fue incapaz de ayudar. Cuando conoce a Cole, un aterrorizado y confuso niño de ocho años, ve que se le presenta la oportunidad de redimirse haciendo todo lo posible para ayudarlo. Sin embargo, el doctor no está preparado para descubrir la terrible verdad sobre el chico.",
-        "fotoPeli":"./img/TheSixthSense.jpg"
+        "fotoPeli":"../img/TheSixthSense.jpg"
     },
     {
         "titulo": "Rear Window",
         "generoP": "Thriller",
         "edadMinima": 15,
         "miniDesc": "Un fotógrafo sentado en una silla de ruedas y con una pierna enyesada espía a los vecinos y atestigua un asesinato.",
-        "fotoPeli":"./img/RearWindow.jpg"
+        "fotoPeli":"../img/RearWindow.jpg"
     },
     {
         "titulo": "Shutter Island",
         "generoP": "Thriller",
         "edadMinima": 18,
         "miniDesc": "La historia cuenta la investigación de dos agentes federales enviados a una institución mental llamada Ashcliffe, con el fin de buscar a Rachel Solando, una paciente psicótica que ha escapado misteriosamente de su celda. Daniels tiene además en su mente los recuerdos del campo de concentración de Dachau.",
-        "fotoPeli":"./img/ShutterIsland.jpg"
+        "fotoPeli":"../img/ShutterIsland.jpg"
     },
     {
         "titulo": "The Lion King",
         "generoP": "Animacion",
         "edadMinima": 2,
         "miniDesc": "Tras la muerte de su padre, Simba deberá enfrentarse a su tío para recuperar el trono de Rey de la Selva. Timón y Pumba le acompañarán en su misión.",
-        "fotoPeli":"./img/TheLionKing.jpg"
+        "fotoPeli":"../img/TheLionKing.jpg"
     },
     {
         "titulo": "Spirited Away",
         "generoP": "Animacion",
         "edadMinima": 2,
         "miniDesc": "Chihiro es una niña de diez años caprichosa y testaruda que cree que el universo entero debe someterse a sus deseos. Camino de su nuevo hogar junto a sus padres, una idea que la enfurece, la familia se equivoca de camino y aparece al final de un misterioso callejón sin salida, donde topan con un extraño edificio con un largo pasaje que los conduce a un pueblo fantasmal donde los espera un magnífico banquete.",
-        "fotoPeli":"./img/SpiritedAway.jpg"
+        "fotoPeli":"../img/SpiritedAway.jpg"
     },
     {
         "titulo": "Inside Out",
         "generoP": "Animacion",
         "edadMinima": 2,
         "miniDesc": "Riley acaba de nacer y en el centro de control de su pequeña mente sólo hay sitio para Alegría. Poco después aparece Tristeza y, más tarde, Ira, Miedo y Asco. Las cinco emociones tendrán que ayudar a la niña cuando, ya con 11 años, su familia se mude desde su idílico pueblo del Medio Oeste estadounidense a la enorme e intimidante ciudad de San Francisco.",
-        "fotoPeli":"./img/InsideOut.jpg"
+        "fotoPeli":"../img/InsideOut.jpg"
     },
     {
         "titulo": "The Notebook",
         "generoP": "Romance",
         "edadMinima": 13,
         "miniDesc": "La historia se remonta al verano de 1940 en Seabrook, Carolina del Sur. Allie Hamilton una chica que pertenece a una familia rica, pasa el verano en Seabrook. En el carnaval, Allie conoce a Noah Calhoun, un joven del pueblo que trabaja en la fábrica de madera. Aunque al principio Allie no se interesa por él, Noah insiste en que pasen tiempo juntos y es así como él y Allie se enamoran.",
-        "fotoPeli":"./img/TheNotebook.jpg"
+        "fotoPeli":"../img/TheNotebook.jpg"
     },
     {
         "titulo": "Crazy, Stupid, Love",
         "generoP": "Romance",
         "edadMinima": 15,
         "miniDesc": "Cal Weaver está viviendo el sueño americano. Tiene un buen trabajo, una casa preciosa, hijos excelentes y una bella esposa llamada Emily. Sin embargo, la aparentemente vida perfecta de Cal se derrumba cuando descubre que Emily le ha sido infiel y quiere divorciarse. Ahora, con más de 40 años y soltero por sorpresa, Cal regresa al caprichoso mundo de las citas.",
-        "fotoPeli":"./img/CrazyStupidLove.jpg"
+        "fotoPeli":"../img/CrazyStupidLove.jpg"
     },
     {
         "titulo": "La La Land",
         "generoP": "Romance",
         "edadMinima": 15,
         "miniDesc": "La película cuenta la historia de Mia, una empleada de un bar que aspira a ser actriz y Sebastián, un pianista de jazz desempleado con grandes ambiciones. A pesar de sus diferencias y sus distintas personalidades, gracias a una serie de acontecimientos harán que sus caminos acaben cruzándose.",
-        "fotoPeli":"./img/LaLaLand.jpg"
+        "fotoPeli":"../img/LaLaLand.jpg"
     },
     {
         "titulo": "Birdman",
         "generoP": "Drama",
         "edadMinima": 18,
         "miniDesc": "El actor Riggan Thomson, famoso por dar vida en la gran pantalla a un icónico superhéroe, intenta dar un giro a su carrera montando una obra de teatro en Broadway.",
-        "fotoPeli":"./img/Birdman.jpg"
+        "fotoPeli":"../img/Birdman.jpg"
     },
     {
         "titulo": "Top Gun: Maverick",
         "generoP": "Accion",
         "edadMinima": 14,
         "miniDesc": "Tras más de 30 años de servicio como uno de los mejores aviadores de la Armada, Pete 'Maverick' Mitchel se encuentra donde siempre quiso estar, empujando los límites como un valiente piloto de pruebas.",
-        "fotoPeli":"./img/TopGunMaverick.jpg"
+        "fotoPeli":"../img/TopGunMaverick.jpg"
     },
     {
         "titulo": "Mad Max: Fury Road",
         "generoP": "Accion",
         "edadMinima": 18,
         "miniDesc": "Tras la guerra termonuclear que ha convertido a la Tierra en un páramo, el antiguo policía Max Rockatansky, atormentado por los espíritus de aquellos a los que no pudo proteger, se ha convertido en un hombre con un solo instinto: sobrevivir. Sin embargo, se ve arrastrado a formar parte de un grupo que huye a través del desierto en un War Rig. Enfurecido, el Señor de la Guerra moviliza a todas sus bandas y persigue implacablemente a Max.",
-        "fotoPeli":"./img/MadMaxFuryRoad.jpg"
+        "fotoPeli":"../img/MadMaxFuryRoad.jpg"
     },
     {
         "titulo": "Kill Bill: Vol. 1",
         "generoP": "Accion",
         "edadMinima": 18,
         "miniDesc": "igue a un personaje inicialmente identificada como «La Novia», un antiguo miembro de un equipo de asesinos que busca venganza de sus excolegas que masacraron a los miembros de su fiesta de boda e intentaron matarla.",
-        "fotoPeli":"./img/KillBillVol1.jpg"
+        "fotoPeli":"../img/KillBillVol1.jpg"
     },
     {
         "titulo": "Kingsman: The Secret Service",
         "generoP": "Accion",
         "edadMinima": 14,
         "miniDesc": "Cuando un agente secreto de Kingsman muere, su puesto es ocupado por otra persona. El resto de miembros debe proponer a un candidato, entre los cuales resultará elegido uno de ellos. En esta ocasión, el agente Galahad propone al hijo de un antiguo compañero: Eggsy. Mientras, el millonario Valentine tiene en mente un plan que pondría en riesgo a la mayor parte del planeta y los Kingsman deberán averiguar qué es y cómo evitarlo.",
-        "fotoPeli":"./img/KingsmanTheSecretService.jpg"
+        "fotoPeli":"../img/KingsmanTheSecretService.jpg"
     },
     {
         "titulo": "The Whale",
         "generoP": "Drama",
         "edadMinima": 18,
         "miniDesc": "Un solitario profesor de inglés que tiene obesidad mórbida y vive recluido intenta reconectar con su hija adolescente para tener una última oportunidad de redención.",
-        "fotoPeli":"./img/TheWhale.jpg"
+        "fotoPeli":"../img/TheWhale.jpg"
     },
     {
         "titulo": "Bad boys",
         "generoP": "Crimen",
         "edadMinima": 16,
         "miniDesc": "Dos policías de Miami sólo tienen 72 horas para encontrar cien millones de dólares en heroína robados del almacén de pruebas de su propia comisaría.",
-        "fotoPeli":"./img/BadBoys.jpg"
+        "fotoPeli":"../img/BadBoys.jpg"
     },
     {
         "titulo": "Los angeles de Charlie",
         "generoP": "Crimen",
         "edadMinima": 10,
         "miniDesc": "Una agencia de detectives dirigida por el multimillonario Charlie tiene en sus filas a tres expertas en artes marciales, en disfraces y en tecnología. Juntas tendrán que ocuparse de un caso muy importante.",
-        "fotoPeli":"./img/LosAngelesDeCharlie.jpg"
+        "fotoPeli":"../img/LosAngelesDeCharlie.jpg"
     },
     {
         "titulo": "Knives out",
         "generoP": "Crimen",
         "edadMinima": 12,
         "miniDesc": "Un misterio moderno en el que un grupo de investigadores ha de descubrir al responsable del asesinato del patriarca de una excéntrica familia.",
-        "fotoPeli":"./img/KnivesOut.jpg"
+        "fotoPeli":"../img/KnivesOut.jpg"
     },
     {
         "titulo": "Nobody",
         "generoP": "Crimen",
         "edadMinima": 16,
         "miniDesc": "Un transeúnte interviene para ayudar a una mujer que está siendo acosada por un grupo de hombres y se convierte en el objetivo de un vengativo narcotraficante.",
-        "fotoPeli":"./img/Nobody.jpg"
+        "fotoPeli":"../img/Nobody.jpg"
     },
     {
         "titulo": "How to train your dragon",
         "generoP": "Fantasia",
         "edadMinima": 6,
         "miniDesc": "Hipo, un vikingo adolescente, comienza las clases de entrenamiento con dragones, y ve por fin una oportunidad para demostrar que es capaz de convertirse en guerrero, cuando hace amistad con un dragón herido.",
-        "fotoPeli":"./img/HowToTrainYourDragon.jpg"
+        "fotoPeli":"../img/HowToTrainYourDragon.jpg"
     },
     {
         "titulo": "A Clockwork Orange",
         "generoP": "Thriller",
         "edadMinima": 18,
         "miniDesc": "Ambientada en la Inglaterra del futuro, el año 1995, pero visto desde 1965; la película sigue la vida de un carismático joven de diecisiete años llamado Alex DeLarge cuyos placeres son escuchar la música de Beethoven, el sexo y la ultraviolencia.",
-        "fotoPeli":"./img/AClockworkOrange.jpg"
+        "fotoPeli":"../img/AClockworkOrange.jpg"
     },
     {
         "titulo": "The Skin I Live In",
         "generoP": "Thriller",
         "edadMinima": 18,
         "miniDesc": "Un evento traumático en la vida de un cirujano plástico le llevan a experimentar con varias técnicas de piel que hubiesen podido salvarla usando una cobaya humana. Para ello, usa a Vera, una joven a la que mantiene retenida y que se ha convertido en el centro de su vida.",
-        "fotoPeli":"./img/TheSkinILiveIn.jpg"
+        "fotoPeli":"../img/TheSkinILiveIn.jpg"
     },
     {
         "titulo": "Come and see",
         "generoP": "Guerra",
         "edadMinima": 18,
         "miniDesc": "En 1943, durante la ocupación de Bielorrusia por la Alemania Nazi, un niño aldeano de 13 años llamado Flyora Gaishun, busca desesperadamente un fusil en los campos de batalla para aportarlo a los partisanos soviéticos y que éstos lo acepten entre sus filas. Cuando lo logra debe pasar un terrible calvario.",
-        "fotoPeli":"./img/ComeAndSee.jpg"
+        "fotoPeli":"../img/ComeAndSee.jpg"
     },
     {
         "titulo": "Salvando al soldado Ryan",
         "generoP": "Guerra",
         "edadMinima": 13,
         "miniDesc": "Tras el desembarco de Normandía, en plena Segunda Guerra Mundial, unos soldados americanos deben arriesgar sus vidas para salvar al soldado James Ryan, cuyos tres hermanos han muerto en la guerra.",
-        "fotoPeli":"./img/SalvandoAlSoldadoRyan.jpg"
+        "fotoPeli":"../img/SalvandoAlSoldadoRyan.jpg"
     }
 ]
