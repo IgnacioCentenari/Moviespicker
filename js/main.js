@@ -67,7 +67,7 @@ if (peliculasFiltradas.length > 0){
             const peliRecomendadaNueva = peliculasFiltradas[randomPeliNuevo];
             const htmlNuevo = `
                 <div class="recomendacion">
-                    <img src="img/${peliRecomendadaNueva.fotoPeli}" alt="">
+                    <img src="${peliRecomendadaNueva.fotoPeli}" alt="">
                     <div>
                         <h4>${peliRecomendadaNueva.titulo}</h4>
                         <p>${peliRecomendadaNueva.miniDesc}</p>
